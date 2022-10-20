@@ -31,7 +31,7 @@ The samples obtained after this implementation have a clear background and foreg
 
 ## References
 
-- Phon-Amnuaisuk, S., Salleh, N. D. H. M., and Woo, S.-L. (2018). Pixel-based lstm generative model. In International Conference on Computational Intelligence in Information System, pages 203–212. Springer.
+- Phon-Amnuaisuk, S., Salleh, N. D. H. M., and Woo, S.-L. (2018). Pixel-based lstm generative model. In International Conference on Computational Intelligence in Information System, pages 203–212. Springer.
 - Uria, B., Cˆot´e, M.-A., Gregor, K., Murray, I., and Larochelle, H. (2016). Neural autoregressive distribution
 estimation. The Journal of Machine Learning Research, 17(1):7184–7220.
 - van den Oord, A. and Kalchbrenner, N. (2016). Pixel rnn. In ICML.
